@@ -1,10 +1,10 @@
 # OA.POC
-# Kalina
+ Kalina
 created OA.POC repository
 Oxford Analytica POC Team 
 
 log_reg_adatis.R
-# Dimitar
+ Dimitar
 Created log_reg_adatis.R
 Performed EDA
 Uploaded the dataset
@@ -16,8 +16,8 @@ Performed aggregation of the transaction amount by month
 Created multivariate logistic regression model based on the montly seasonality of the business
 
 
-# Dimitar
+ Dimitar
 log_reg_count.R
 
-# Polina
+ Polina
 customers.R
